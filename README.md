@@ -23,9 +23,3 @@
 
 🟢 This is a **real project** based on public data.  
 📌 Use it as a portfolio example or educational resource.
-
----
-
-Let me know if you’d like me to **generate this full structure as a downloadable ZIP**, or help you write a professional pinned post for GitHub profile.
-
-Would you like to make a pinned project in your GitHub profile too?
